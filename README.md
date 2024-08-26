@@ -59,8 +59,6 @@
 
 <br/>
 
-<div align="center">
-<a href='https://www.buymeacoffee.com/kumalh' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Buy Me a Coffee' /></a>
-</div>
+
 
 <br/>
