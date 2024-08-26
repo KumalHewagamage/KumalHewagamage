@@ -38,10 +38,9 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
-    <div align="center">
+    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=python,c,cplusplus,html5,pytorch,tensorflow,onnx,altiumdesigner,kicad,adobephotoshop,canva,nodered,unrealengine,anaconda,blender,arduino,​espressif,raspberrypi,linux,opencv,visualstudio,vscode&perline=10)]()
 
