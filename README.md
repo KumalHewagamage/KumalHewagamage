@@ -39,7 +39,7 @@
 <div align="center">
     <div align="center">
 
-<img src="https://simpleskill.icons.workers.dev/svg?i=python,cpp,html,verilog,pytorch,tensorflow,onnx,altium,kicad,solidworks,quartusprime,photoshop,canva,nodered,unrealengine,anaconda,blender,c,cpp,github,linux,matlab,opencv,raspberrypi,visualstudio,vscode" alt="Skills" />
+<img src="https://simpleskill.icons.workers.dev/svg?i=python,c,cplusplus,html,verilog,pytorch,tensorflow,onnx,altiumdesigner,kicad,solidworks,quartusprime,photoshop,canva,nodered,unrealengine,anaconda,blender,github,linux,matlab,opencv,raspberrypi,visualstudio,vscode" alt="Skills" />
 
 
 </div>
