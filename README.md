@@ -8,18 +8,22 @@
 
 <br/>
 
-<img src="Assets/plcholder.png" width="330" align="right"/>
 
 <div align="center">
+
+<img src="plcholder.png" width="330" align="left"/>
+
+<p align="right">
  
- 🔭 I’m currently working on **real-time monocular depth estimation for robotics**
+ 🔭 I’m currently working on **Real-Time Monocular Depth Estimation Model for Robotics**
  
- 🌱 I’m currently learning **JEPA architecture, Multi-modal AI**
+ 🌱 I’m currently learning **Vision Lnaguage Models, Retrieval Augmented Generation**
 
 💬 Ask me about **AI Model Optimization, Hardware Acceleration, Edge Computing, or anything [here](https://github.com/KumalHewagamage/KumalHewagamage/issues)**
 
 ⚡ Fun fact **The first AI program was written over 70 years ago!**
 
+</p>
 </div>
  
 <div align="center"> 
