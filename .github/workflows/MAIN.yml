@@ -5,6 +5,7 @@ name: Generate Snake
 # Set permissions
 permissions:
   contents: write
+  workflows: write
 
 
 # Controls when the action will run. This action runs every 6 hours.
