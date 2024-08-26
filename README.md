@@ -8,6 +8,8 @@
 
 <br/>
 
+<img src="Assets/plcholder.png" width="330" align="right"/>
+
 <div align="center">
  
  🔭 I’m currently working on **real-time monocular depth estimation for robotics**
