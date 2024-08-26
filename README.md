@@ -24,9 +24,7 @@
 ⚡ Fun fact **The first AI program was written over 70 years ago!**
 
 </p>
-</div>
- 
-<div align="center"> 
+
   <a href="mailto:klnict47@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
