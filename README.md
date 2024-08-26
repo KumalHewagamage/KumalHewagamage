@@ -39,13 +39,10 @@
 <div align="center">
     <div align="center">
 
-
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=python,c,cplusplus,html5,pytorch,tensorflow,onnx,altiumdesigner,kicad,adobephotoshop,canva,nodered,unrealengine,anaconda,blender,arduino,​espressif,raspberrypi,linux,opencv,visualstudio,vscode&perline=10)]()
 
 </div>
 
-
-<br/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
