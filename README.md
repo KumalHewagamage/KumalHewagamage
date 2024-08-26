@@ -39,8 +39,8 @@
 <div align="center">
     <div align="center">
 
-<img src="https://simpleskill.icons.workers.dev/svg?i=python,c,cplusplus,html,verilog,pytorch,tensorflow,onnx,altiumdesigner,kicad,solidworks,quartusprime,photoshop,canva,nodered,unrealengine,anaconda,blender,github,linux,matlab,opencv,raspberrypi,visualstudio,vscode" alt="Skills" />
 
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=python,c,cplusplus,html5,pytorch,tensorflow,onnx,altiumdesigner,kicad,adobephotoshop,canva,nodered,unrealengine,anaconda,blender,arduino,​espressif,raspberrypi,linux,opencv,visualstudio,vscode&perline=10)]()
 
 </div>
 
