@@ -15,7 +15,7 @@
 
 <p align="right">
  
- 🔭 I’m currently working on **Real-Time Monocular Depth Estimation Model for Robotics**
+ 🔭 I’m currently working on **Real-Time Monocular Depth Estimation Model for Robots**
  
  🌱 I’m currently learning **Vision Lnaguage Models, Retrieval Augmented Generation**
 
