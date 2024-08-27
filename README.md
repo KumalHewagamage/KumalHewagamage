@@ -19,7 +19,7 @@
  
  🌱 I’m currently learning **Vision Lnaguage Models, Retrieval Augmented Generation**
 
-💬 Ask me about **AI Model Optimization, Hardware Acceleration, Edge Computing, or anything [here](https://github.com/KumalHewagamage/KumalHewagamage/issues)**
+💬 Ask me about **AI Model Optimization, Hardware Acceleration, LLMs, Edge AI, or anything [here](https://github.com/KumalHewagamage/KumalHewagamage/issues)**
 
 ⚡ Fun fact **The first AI program was written over 70 years ago!**
 
